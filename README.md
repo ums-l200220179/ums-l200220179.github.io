@@ -89,7 +89,7 @@
             <h2>Tugas Kuliah</h2>
             <div class="links">
                 <a href="https://github.com/ums-l200220179/ums-l200220179.github.io/blob/main/metaflow.py" target="_top">Tugas Sebelum UTS</a>
-                <a href="#" target="_top" class="secondary">Tugas Sebelum UAS</a>
+                <a href="https://github.com/ums-l200220179/ums-l200220179.github.io" target="_top" class="secondary">Tugas Sebelum UAS</a>
             </div>
         </div>
     </div>
